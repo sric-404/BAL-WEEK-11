@@ -7,6 +7,7 @@
 Look at the size of each bubble. The largest bubble(s) represent the most significant sub-categories in terms of sales, while the smallest bubble(s) represent the least significant. Use the Profit color to check whether high-sales sub-categories are also profitable.
 
 3. For the 5 business insights, base them on:
+   
    1.Technology is the highest-selling category, generating approximately 836,154 in sales, followed by Furniture at 742,000 and Office Supplies at 719,047.
    
    2.Phones are a major sales contributor, generating approximately 330,007, making them one of the most significant sub-categories.
